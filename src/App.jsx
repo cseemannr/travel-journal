@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import Card from "./components/Card";
-import Data from "./components/Data";
+import Data from "./data";
 
 function App() {
   const dataCards = Data.map((item) => {
