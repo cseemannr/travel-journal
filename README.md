@@ -1,10 +1,10 @@
-<h1><a href="/https://scrimba-travel-journal-camilaramos.netlify.app/" target="_blank">Travel Journal</a></h1>
+<h1><a href="https://scrimba-travel-journal-camilaramos.netlify.app/" target="_blank">Travel Journal</a></h1>
 <h3>Scrimba React Course Challenge:</h3>
 
 <h2>Requirements:</h2>
 <ul>
 <li>Data array in a separate .js file
-<ul><li>Title, description, price, cover image, rating, review count, location, open spots</li></ul>
+<ul><li>Title, location, Google Maps link, start date, end date, description, image URL</li></ul>
 </li>
 <li>Use .map() and props</li>
 <li>Style & polished</li>
